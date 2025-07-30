@@ -1,60 +1,66 @@
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗠𝗠𝗔𝗔𝗔𝗔 𝗞𝗞𝗜𝗜𝗜𝗜𝗜𝗜 𝗖𝗖𝗛𝗛𝗨𝗨𝗧𝗧𝗧𝗧𝗧𝗧 𝗠𝗠𝗔𝗔𝗥𝗥𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗛𝗛𝗛𝗛𝗔𝗔𝗔𝗔𝗡𝗡𝗡𝗡𝗡𝗡 𝗞𝗞𝗢𝗢 𝗖𝗖𝗛𝗛𝗢𝗢𝗗𝗗𝗗𝗗 𝗞𝗞𝗘𝗘 𝗧𝗧𝗢𝗢𝗣𝗣𝗣𝗣𝗣𝗣 𝗥𝗥𝗔𝗔𝗡𝗡𝗡𝗡𝗗𝗗𝗜𝗜𝗜𝗜𝗜𝗜 𝗕𝗕𝗡𝗡𝗔𝗔𝗔𝗔𝗨𝗨𝗨𝗨𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗔𝗔𝗠𝗠𝗠𝗠𝗠𝗠𝗔𝗔𝗔𝗔 𝗞𝗞𝗜𝗜𝗜𝗜𝗜𝗜 𝗞𝗞𝗔𝗔𝗔𝗔𝗟𝗟𝗟𝗟𝗜𝗜𝗜𝗜𝗜𝗜 𝗖𝗖𝗛𝗛𝗨𝗨𝗧𝗧𝗧𝗧 𝗙𝗙𝗔𝗔𝗔𝗔𝗗𝗗𝗗𝗗𝗨𝗨𝗨𝗨 
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡𝗡𝗡 𝗞𝗞𝗢𝗢 𝗖𝗖𝗛𝗛𝗢𝗢𝗗𝗗 𝗞𝗞𝗘𝗘 𝗧𝗧𝗢𝗢𝗣𝗣𝗣𝗣𝗣𝗣 𝗥𝗥𝗔𝗔𝗡𝗡𝗡𝗡𝗗𝗗𝗗𝗗𝗗𝗗𝗜𝗜𝗜𝗜𝗜𝗜𝗜𝗜 𝗕𝗕𝗡𝗡𝗔𝗔𝗨𝗨𝗨𝗨𝗨𝗨 
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡𝗡𝗡𝗡𝗡 𝗞𝗞𝗢𝗢𝗢𝗢 𝗚𝗚𝗛𝗛𝗛𝗛𝗢𝗢𝗗𝗗𝗗𝗗𝗜𝗜𝗜𝗜𝗜𝗜 𝗕𝗕𝗡𝗡𝗔𝗔𝗔𝗔𝗔𝗔 𝗞𝗞𝗘𝗘𝗘𝗘 𝗖𝗖𝗛𝗛𝗢𝗢𝗗𝗗𝗨𝗨 
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗚𝗚𝗔𝗔𝗡𝗡𝗗𝗗𝗗𝗗𝗗𝗗𝗗𝗗 𝗙𝗙𝗔𝗔𝗔𝗔𝗗𝗗 𝗗𝗗𝗨𝗨𝗚𝗚𝗔𝗔 𝗟𝗟𝗨𝗨𝗡𝗡𝗗𝗗 𝗞𝗞𝗘𝗘 𝗣𝗣𝗔𝗔𝗡𝗡𝗡𝗡𝗜𝗜𝗜𝗜𝗜𝗜 
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜𝗜𝗜 𝗔𝗔𝗠𝗠𝗠𝗠𝗔𝗔𝗔𝗔𝗔𝗔 𝗞𝗞𝗜𝗜𝗜𝗜𝗜𝗜 𝗚𝗚𝗔𝗔𝗔𝗔𝗡𝗡𝗡𝗡𝗗𝗗𝗗𝗗𝗗𝗗 𝗠𝗠𝗔𝗔𝗔𝗔𝗥𝗥𝗨𝗨𝗨𝗨 
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡𝗡𝗡 𝗞𝗞𝗢𝗢 𝗕𝗕𝗛𝗛𝗚𝗚𝗔𝗔𝗔𝗔 𝗕𝗕𝗛𝗛𝗚𝗚𝗔𝗔𝗔𝗔 𝗞𝗞𝗘𝗘 𝗖𝗖𝗛𝗛𝗢𝗢𝗗𝗗𝗨𝗨 
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗠𝗠𝗢𝗢𝗦𝗦𝗜𝗜𝗜𝗜𝗜𝗜 𝗞𝗞𝗢𝗢 𝗟𝗟𝗨𝗨𝗡𝗡𝗗𝗗 𝗖𝗖𝗛𝗛𝗨𝗨𝗦𝗦𝗔𝗔𝗔𝗔 𝗞𝗞𝗘𝗘 𝗖𝗖𝗢𝗢𝗗𝗗𝗗𝗗𝗨𝗨𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜 𝗔𝗔𝗠𝗠𝗠𝗠𝗔𝗔𝗔𝗔 𝗞𝗞𝗢𝗢 𝗖𝗖𝗛𝗛𝗢𝗢𝗗𝗗𝗗𝗗 𝗞𝗞𝗘𝗘 𝗧𝗧𝗢𝗢𝗣𝗣𝗣𝗣 𝗥𝗥𝗔𝗔𝗡𝗡𝗡𝗡𝗗𝗗𝗗𝗗𝗜𝗜𝗜𝗜 𝗕𝗕𝗡𝗡𝗔𝗔𝗔𝗔𝗨𝗨𝗨𝗨 
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡 𝗞𝗞𝗢𝗢 𝗖𝗖𝗛𝗛𝗢𝗢𝗗𝗗𝗨𝗨 𝗧𝗧𝗘𝗘𝗥𝗥𝗘𝗘 𝗕𝗕𝗔𝗔𝗔𝗔𝗣𝗣 𝗞𝗞𝗘𝗘 𝗦𝗦𝗔𝗔𝗔𝗔𝗠𝗠𝗡𝗡𝗘𝗘
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜 𝗔𝗔𝗠𝗠𝗠𝗠𝗔𝗔 𝗞𝗞𝗢𝗢 𝗖𝗖𝗛𝗛𝗢𝗢𝗗𝗗 𝗞𝗞𝗘𝗘 𝗙𝗙𝗘𝗘𝗠𝗠𝗨𝗨𝗦𝗦 𝗞𝗞𝗔𝗔𝗥𝗥𝗨𝗨𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜 𝗖𝗖𝗛𝗛𝗛𝗛𝗢𝗢𝗧𝗧𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗡𝗡𝗡𝗡𝗡𝗡 𝗞𝗞𝗜𝗜𝗜𝗜 𝗕𝗕𝗥𝗥𝗔𝗔𝗔𝗔𝗔𝗔 𝗙𝗙𝗔𝗔𝗔𝗔𝗗𝗗𝗗𝗗𝗨𝗨𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜 𝗗𝗗𝗔𝗔𝗗𝗗𝗜𝗜𝗜𝗜𝗜𝗜 𝗞𝗞𝗜𝗜𝗜𝗜𝗜𝗜 𝗚𝗚𝗔𝗔𝗡𝗡𝗗𝗗𝗗𝗗𝗗𝗗𝗗𝗗 𝗙𝗙𝗔𝗔𝗔𝗔𝗗𝗗𝗗𝗗 𝗞𝗞𝗘𝗘 𝗟𝗟𝗨𝗨𝗡𝗡𝗗𝗗 𝗗𝗗𝗔𝗔𝗔𝗔𝗟𝗟𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗔𝗔𝗠𝗠𝗠𝗠𝗔𝗔𝗔𝗔 𝗞𝗞𝗢𝗢 𝗜𝗜𝗧𝗧𝗡𝗡𝗔𝗔𝗔𝗔𝗔𝗔 𝗖𝗖𝗛𝗛𝗜𝗜𝗗𝗗𝗨𝗨𝗚𝗚𝗔𝗔 𝗣𝗣𝗔𝗔𝗔𝗔𝗡𝗡𝗜𝗜 𝗠𝗠𝗔𝗔𝗚𝗚𝗘𝗘𝗚𝗚𝗜𝗜
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡𝗡𝗡 𝗞𝗞𝗢𝗢 𝗟𝗟𝗨𝗨𝗡𝗡𝗗𝗗 𝗞𝗞𝗔𝗔𝗔𝗔 𝗣𝗣𝗔𝗔𝗡𝗡𝗜𝗜𝗜𝗜 𝗣𝗣𝗜𝗜𝗟𝗟𝗔𝗔𝗔𝗔𝗨𝗨𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗚𝗚𝗔𝗔𝗡𝗡𝗗𝗗𝗗𝗗𝗗𝗗 𝗠𝗠𝗘𝗘 𝗚𝗚𝗔𝗔𝗥𝗥𝗔𝗔𝗠𝗠 𝗦𝗦𝗔𝗔𝗥𝗥𝗜𝗜𝗬𝗬𝗔𝗔 𝗗𝗗𝗔𝗔𝗔𝗔𝗟𝗟𝗨𝗨𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗚𝗚𝗔𝗔𝗔𝗔𝗡𝗡𝗗𝗗𝗗𝗗 𝗙𝗙𝗔𝗔𝗔𝗔𝗗𝗗𝗗𝗗 𝗞𝗞𝗘𝗘 𝗞𝗞𝗛𝗛𝗢𝗢𝗢𝗢𝗡𝗡 𝗡𝗡𝗜𝗜𝗞𝗞𝗔𝗔𝗔𝗔𝗟𝗟𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡𝗡𝗡 𝗞𝗞𝗘𝗘 𝗚𝗚𝗨𝗨𝗟𝗟𝗔𝗔𝗔𝗔𝗕𝗕𝗜𝗜𝗜𝗜 𝗕𝗕𝗛𝗛𝗢𝗢𝗦𝗦𝗗𝗗𝗘𝗘 𝗣𝗣𝗘𝗘 𝗖𝗖𝗛𝗛𝗔𝗔𝗣𝗣𝗣𝗣𝗔𝗔𝗔𝗔𝗟𝗟𝗟𝗟 𝗠𝗠𝗔𝗔𝗔𝗔𝗥𝗥𝗨𝗨𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗔𝗔𝗠𝗠𝗔𝗔𝗔𝗔 𝗞𝗞𝗢𝗢 𝗧𝗧𝗢𝗢𝗣𝗣𝗣𝗣 𝗥𝗥𝗔𝗔𝗡𝗡𝗗𝗗𝗜𝗜𝗜𝗜 𝗕𝗕𝗡𝗡𝗔𝗔𝗨𝗨𝗨𝗨𝗚𝗚𝗔𝗔 
-𝗕𝗕𝗛𝗛𝗔𝗔𝗔𝗔𝗔𝗔𝗚𝗚 𝗠𝗠𝗔𝗔𝗧𝗧 𝗥𝗥𝗔𝗔𝗡𝗡𝗗𝗗𝗜𝗜𝗜𝗜𝗜𝗜 𝗞𝗞𝗘𝗘 𝗕𝗕𝗔𝗔𝗖𝗖𝗛𝗛𝗘𝗘𝗘𝗘 
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡 𝗖𝗖𝗛𝗛𝗨𝗨𝗗𝗗𝗘𝗘𝗚𝗚𝗜𝗜 𝗔𝗔𝗕𝗕 𝗧𝗧𝗘𝗘𝗥𝗥𝗘𝗘 𝗦𝗦𝗔𝗔𝗠𝗠𝗡𝗡𝗘𝗘 
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜 𝗔𝗔𝗠𝗠𝗔𝗔𝗔𝗔𝗔𝗔 𝗞𝗞𝗢𝗢 𝗠𝗠𝗨𝗨𝗧𝗧𝗧𝗧 𝗣𝗣𝗜𝗜𝗟𝗟𝗔𝗔𝗨𝗨𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡𝗡𝗡 𝗞𝗞𝗢𝗢 𝗟𝗟𝗨𝗨𝗡𝗡𝗗𝗗 𝗣𝗣𝗘𝗘 𝗕𝗕𝗘𝗘𝗧𝗧𝗛𝗛𝗔𝗔𝗔𝗔 𝗞𝗞𝗘𝗘 𝗚𝗚𝗛𝗛𝗨𝗨𝗠𝗠𝗔𝗔𝗔𝗔𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗔𝗔𝗠𝗠𝗠𝗠𝗔𝗔𝗔𝗔 𝗞𝗞𝗜𝗜𝗜𝗜𝗜𝗜 𝗕𝗕𝗥𝗥𝗔𝗔𝗔𝗔 𝗨𝗨𝗧𝗧𝗔𝗔𝗔𝗔𝗥𝗥𝗥𝗥 𝗞𝗞𝗘𝗘 𝗕𝗕𝗢𝗢𝗢𝗢𝗕𝗕𝗦𝗦 𝗗𝗗𝗕𝗕𝗔𝗔𝗔𝗔𝗨𝗨𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡𝗡𝗡 𝗞𝗞𝗘𝗘 𝗕𝗕𝗢𝗢𝗢𝗢𝗕𝗕𝗦𝗦 𝗕𝗕𝗗𝗗𝗔𝗔𝗔𝗔𝗔𝗔 𝗞𝗞𝗘𝗘 𝗞𝗞𝗔𝗔𝗥𝗥𝗨𝗨 𝗗𝗗𝗕𝗕𝗔𝗔 𝗗𝗗𝗕𝗕𝗔𝗔 𝗞𝗞𝗘𝗘
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡𝗡𝗡 𝗞𝗞𝗢𝗢 𝗖𝗖𝗛𝗛𝗢𝗢𝗗𝗗𝗨𝗨 𝗧𝗧𝗔𝗔𝗡𝗡𝗚𝗚 𝗨𝗨𝗧𝗧𝗛𝗛𝗔𝗔𝗔𝗔 𝗞𝗞𝗘𝗘 
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡𝗡𝗡 𝗞𝗞𝗢𝗢 𝗟𝗟𝗨𝗨𝗡𝗡𝗗𝗗 𝗞𝗞𝗔𝗔𝗔𝗔 𝗣𝗣𝗔𝗔𝗡𝗡𝗜𝗜 𝗣𝗣𝗜𝗜𝗟𝗟𝗔𝗔𝗔𝗔𝗨𝗨𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜𝗜𝗜 𝗞𝗞𝗛𝗛𝗔𝗔𝗟𝗟𝗔𝗔 𝗞𝗞𝗜𝗜𝗜𝗜 𝗠𝗠𝗢𝗢𝗧𝗧𝗜𝗜 𝗚𝗚𝗔𝗔𝗔𝗔𝗡𝗡𝗗𝗗𝗗𝗗 𝗙𝗙𝗔𝗔𝗔𝗔𝗗𝗗𝗨𝗨𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗖𝗖𝗛𝗛𝗛𝗛𝗢𝗢𝗧𝗧𝗧𝗧𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡𝗡𝗡 𝗞𝗞𝗢𝗢 𝗖𝗖𝗛𝗛𝗢𝗢𝗗𝗗𝗨𝗨 𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗔𝗔𝗠𝗠𝗠𝗠𝗔𝗔𝗔𝗔 𝗞𝗞𝗘𝗘 𝗦𝗦𝗔𝗔𝗠𝗠𝗡𝗡𝗘𝗘
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜𝗜𝗜 𝗔𝗔𝗠𝗠𝗠𝗠𝗔𝗔𝗔𝗔 𝗞𝗞𝗜𝗜 𝗣𝗣𝗔𝗔𝗡𝗡𝗧𝗧𝗬𝗬𝗬𝗬 𝗨𝗨𝗧𝗧𝗔𝗔𝗔𝗔𝗥𝗥𝗨𝗨 𝗕𝗕𝗔𝗔𝗭𝗭𝗔𝗔𝗔𝗔𝗔𝗔𝗥𝗥 𝗠𝗠𝗘𝗘
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗔𝗔𝗡𝗡𝗡𝗡 𝗞𝗞𝗢𝗢 𝗚𝗚𝗛𝗛𝗢𝗢𝗗𝗗𝗜𝗜 𝗕𝗕𝗡𝗡𝗔𝗔𝗨𝗨 𝗥𝗥𝗢𝗢𝗔𝗔𝗗𝗗𝗗𝗗 𝗣𝗣𝗘𝗘 
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡 𝗞𝗞𝗢𝗢 𝗟𝗟𝗨𝗨𝗡𝗡𝗗𝗗 𝗦𝗦𝗘𝗘 𝗦𝗦𝗨𝗨𝗞𝗞𝗢𝗢𝗢𝗢𝗡𝗡 𝗗𝗗𝗨𝗨
-𝗕𝗕𝗛𝗛𝗘𝗘𝗝𝗝 𝗔𝗔𝗣𝗣𝗡𝗡𝗜𝗜 𝗔𝗔𝗠𝗠𝗠𝗠𝗔𝗔 𝗞𝗞𝗢𝗢 𝗠𝗠𝗘𝗘𝗥𝗥𝗔𝗔 𝗟𝗟𝗨𝗨𝗡𝗡𝗗𝗗 𝗞𝗞𝗛𝗛𝗔𝗔𝗗𝗗𝗔𝗔 𝗛𝗛𝗔𝗔𝗜𝗜 
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜 𝗔𝗔𝗠𝗠𝗠𝗠𝗔𝗔 𝗞𝗞𝗜𝗜𝗜𝗜 𝗖𝗖𝗛𝗛𝗨𝗨𝗧𝗧 𝗧𝗧𝗔𝗔𝗥𝗥𝗦𝗦 𝗥𝗥𝗔𝗔𝗛𝗛𝗜𝗜 𝗛𝗛𝗔𝗔𝗜𝗜 𝗠𝗠𝗘𝗘𝗥𝗥𝗘𝗘 𝗟𝗟𝗨𝗨𝗡𝗡𝗗𝗗 𝗞𝗞𝗘𝗘 𝗟𝗟𝗜𝗜𝗬𝗬𝗘𝗘
-𝗔𝗔𝗣𝗣𝗡𝗡𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡 𝗞𝗞𝗜𝗜 𝗣𝗣𝗔𝗔𝗡𝗡𝗧𝗧𝗬𝗬𝗬𝗬 𝗨𝗨𝗧𝗧𝗔𝗔𝗔𝗔𝗥𝗥𝗥𝗥𝗥𝗥 𝗞𝗞𝗘𝗘 𝗖𝗖𝗛𝗛𝗘𝗘𝗔𝗔𝗖𝗖𝗞𝗞 𝗞𝗞𝗥𝗥𝗥𝗥 𝗖𝗖𝗛𝗛𝗨𝗨𝗧𝗧𝗧𝗧 𝗚𝗚𝗘𝗘𝗘𝗘𝗟𝗟𝗜𝗜𝗜𝗜𝗜𝗜 𝗛𝗛𝗢𝗢𝗚𝗚𝗜𝗜
-𝗔𝗔𝗣𝗣𝗡𝗡𝗜𝗜𝗜𝗜𝗜𝗜 𝗖𝗖𝗛𝗛𝗛𝗛𝗢𝗢𝗧𝗧𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡 𝗞𝗞𝗢𝗢 𝗕𝗕𝗛𝗛𝗘𝗘𝗝𝗝 𝗚𝗚𝗛𝗛𝗢𝗢𝗗𝗗𝗜𝗜 𝗕𝗕𝗡𝗡𝗔𝗔𝗔𝗔 𝗞𝗞𝗘𝗘 𝗣𝗣𝗟𝗟𝗘𝗘𝗨𝗨𝗚𝗚𝗔𝗔 
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜 𝗔𝗔𝗠𝗠𝗠𝗠𝗔𝗔𝗔𝗔 𝗞𝗞𝗢𝗢 𝗧𝗧𝗔𝗔𝗡𝗡𝗚𝗚𝗘𝗘 𝗨𝗨𝗧𝗧𝗛𝗛𝗛𝗛𝗔𝗔𝗔𝗔𝗔𝗔 𝗞𝗞𝗘𝗘 𝗖𝗖𝗛𝗛𝗢𝗢𝗗𝗗𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡𝗡𝗡 𝗞𝗞𝗢𝗢 𝗖𝗖𝗛𝗛𝗢𝗢𝗗𝗗𝗗𝗗 𝗞𝗞𝗘𝗘 𝗥𝗥𝗔𝗔𝗞𝗞𝗛𝗛𝗘𝗘𝗟𝗟𝗟𝗟 𝗕𝗕𝗡𝗡𝗔𝗔𝗨𝗨𝗨𝗨𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡𝗡𝗡 𝗞𝗞𝗘𝗘 𝗕𝗕𝗢𝗢𝗢𝗢𝗕𝗕𝗕𝗕𝗦𝗦𝗦𝗦 𝗞𝗞𝗔𝗔𝗔𝗔𝗧𝗧𝗨𝗨𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗔𝗔𝗠𝗠𝗔𝗔𝗔𝗔 𝗞𝗞𝗜𝗜𝗜𝗜𝗜𝗜 𝗖𝗖𝗛𝗛𝗨𝗨𝗧𝗧𝗧𝗧𝗧𝗧 𝗞𝗞𝗨𝗨𝗧𝗧𝗧𝗧𝗢𝗢 𝗦𝗦𝗘𝗘 𝗞𝗞𝗔𝗔𝗧𝗧𝗕𝗕𝗔𝗔𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗞𝗞𝗜𝗜𝗜𝗜 𝗖𝗖𝗛𝗛𝗨𝗨𝗧𝗧 𝗙𝗙𝗔𝗔𝗔𝗔𝗗𝗗𝗨𝗨
-𝗝𝗝𝗛𝗛𝗔𝗔𝗡𝗡𝗧𝗧𝗧𝗧𝗧𝗧 𝗞𝗞𝗘𝗘 𝗕𝗕𝗔𝗔𝗔𝗔𝗟𝗟𝗟𝗟 𝗙𝗙𝗘𝗘𝗘𝗘𝗟𝗟𝗟𝗟. 𝗞𝗞𝗔𝗔𝗔𝗔𝗥𝗥𝗥𝗥𝗥𝗥 𝗕𝗕𝗔𝗔𝗔𝗔𝗣𝗣𝗣𝗣 𝗞𝗞𝗢𝗢
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜𝗜𝗜 𝗔𝗔𝗠𝗠𝗠𝗠𝗔𝗔𝗔𝗔 𝗖𝗖𝗛𝗛𝗨𝗨𝗗𝗗 𝗚𝗚𝗔𝗔𝗬𝗬𝗜𝗜 𝗕𝗕𝗛𝗛𝗔𝗔𝗔𝗔𝗚𝗚 𝗠𝗠𝗔𝗔𝗧𝗧
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡 𝗞𝗞𝗜𝗜𝗜𝗜 𝗖𝗖𝗛𝗛𝗨𝗨𝗧𝗧 𝗦𝗦𝗘𝗘 𝗣𝗣𝗔𝗔𝗡𝗡𝗜𝗜 𝗡𝗡𝗜𝗜𝗞𝗞𝗔𝗔𝗟𝗟 𝗗𝗗𝗜𝗜𝗬𝗬𝗔𝗔 𝗔𝗔𝗕𝗕 𝗧𝗧𝗢𝗢 𝗠𝗠𝗘𝗘𝗡𝗡𝗘𝗘 
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗔𝗔𝗠𝗠𝗠𝗠𝗔𝗔 𝗞𝗞𝗢𝗢 𝗡𝗡𝗔𝗔𝗚𝗚𝗔𝗔𝗔𝗔 𝗞𝗞𝗔𝗔𝗥𝗥𝗨𝗨𝗚𝗚𝗔𝗔 𝗔𝗔𝗕𝗕𝗕𝗕 
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡𝗡𝗡 𝗞𝗞𝗜𝗜𝗜𝗜 𝗦𝗦𝗘𝗘𝗔𝗔𝗟𝗟𝗟𝗟 𝗧𝗧𝗢𝗢𝗗𝗗𝗨𝗨𝗚𝗚𝗔𝗔𝗔𝗔 𝗔𝗔𝗕𝗕
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗔𝗔𝗠𝗠𝗠𝗠𝗔𝗔𝗔𝗔 𝗕𝗕𝗔𝗔𝗭𝗭𝗔𝗔𝗥𝗥 𝗠𝗠𝗘𝗘 𝗖𝗖𝗛𝗛𝗢𝗢𝗗𝗗𝗨𝗨𝗚𝗚𝗔𝗔 
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡𝗡𝗡 𝗞𝗞𝗢𝗢 𝗧𝗧𝗘𝗘𝗥𝗥𝗘𝗘 𝗦𝗦𝗔𝗔𝗠𝗠𝗡𝗡𝗘𝗘 𝗖𝗖𝗛𝗛𝗢𝗢𝗗𝗗𝗨𝗨
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜 𝗧𝗧𝗔𝗔𝗥𝗥𝗔𝗔𝗦𝗦 𝗚𝗚𝗔𝗔𝗬𝗬𝗜𝗜 𝗠𝗠𝗘𝗘𝗥𝗥𝗘𝗘 𝗟𝗟𝗨𝗨𝗡𝗡𝗗𝗗 𝗞𝗞𝗘𝗘 𝗟𝗟𝗜𝗜𝗬𝗬𝗘𝗘 𝗕𝗕𝗛𝗛𝗘𝗘𝗝𝗝𝗗𝗗𝗘𝗘 𝗝𝗝𝗔𝗔𝗟𝗟𝗗𝗗𝗜𝗜
-𝗠𝗠𝗘𝗘𝗥𝗥𝗔𝗔𝗔𝗔 𝗟𝗟𝗨𝗨𝗡𝗡𝗗𝗗 𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡 𝗞𝗞𝗢𝗢 𝗬𝗬𝗔𝗔𝗔𝗔𝗗𝗗 𝗞𝗞𝗥𝗥 𝗥𝗥𝗔𝗔𝗛𝗛𝗔𝗔 𝗛𝗛𝗔𝗔𝗜𝗜 
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜 𝗕𝗕𝗘𝗘𝗛𝗛𝗔𝗔𝗡𝗡𝗡𝗡𝗡𝗡 𝗞𝗞𝗜𝗜𝗜𝗜 𝗖𝗖𝗛𝗛𝗨𝗨𝗧𝗧 𝗠𝗠𝗘𝗘 𝗛𝗛𝗔𝗔𝗔𝗔𝗧𝗧𝗛𝗛 𝗗𝗗𝗔𝗔𝗔𝗔𝗟𝗟 𝗞𝗞𝗘𝗘 𝗕𝗕𝗔𝗔𝗖𝗖𝗛𝗛𝗘𝗘 𝗗𝗗𝗔𝗔𝗔𝗔𝗡𝗡𝗜𝗜 𝗕𝗕𝗔𝗔𝗛𝗛𝗔𝗔𝗥𝗥 𝗡𝗡𝗜𝗜𝗞𝗞𝗔𝗔𝗟𝗟 𝗗𝗗𝗨𝗨𝗚𝗚𝗔𝗔 𝗝𝗝𝗚𝗚𝗔𝗔𝗡𝗡𝗧𝗧 𝗞𝗞𝗘𝗘 𝗕𝗕𝗔𝗔𝗔𝗔𝗟𝗟
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜𝗜𝗜 𝗔𝗔𝗠𝗠𝗠𝗠𝗔𝗔𝗔𝗔 𝗞𝗞𝗢𝗢 𝗖𝗖𝗛𝗛𝗢𝗢𝗗𝗗 𝗞𝗞𝗘𝗘 𝗥𝗥𝗔𝗔𝗔𝗔𝗡𝗡𝗗𝗗𝗗𝗗 𝗞𝗞𝗥𝗥𝗗𝗗𝗨𝗨𝗚𝗚𝗔𝗔
-𝗧𝗧𝗘𝗘𝗥𝗥𝗥𝗥𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗔𝗔𝗠𝗠𝗠𝗠𝗔𝗔𝗔𝗔 𝗞𝗞𝗢𝗢 𝗟𝗟𝗨𝗨𝗡𝗡𝗗𝗗 𝗞𝗞𝗜𝗜𝗜𝗜 𝗖𝗖𝗥𝗥𝗘𝗘𝗔𝗔𝗠𝗠 𝗖𝗖𝗛𝗛𝗔𝗔𝗧𝗧𝗔𝗔𝗔𝗔𝗨𝗨𝗚𝗚𝗔𝗔 𝗔𝗔𝗕𝗕
-𝗟𝗟𝗘𝗘𝗘𝗘 𝗖𝗖𝗛𝗛𝗔𝗔𝗔𝗔𝗧𝗧 𝗟𝗟𝗘𝗘 𝗠𝗠𝗘𝗘𝗥𝗥𝗘𝗘 𝗟𝗟𝗨𝗨𝗡𝗡𝗗𝗗 𝗞𝗞𝗔𝗔𝗔𝗔 𝗣𝗣𝗔𝗔𝗡𝗡𝗜𝗜𝗜𝗜 𝗔𝗔𝗕𝗕
-𝗕𝗕𝗛𝗛𝗔𝗔𝗔𝗔𝗔𝗔𝗚𝗚𝗚𝗚 𝗠𝗠𝗔𝗔𝗧𝗧 𝗥𝗥𝗔𝗔𝗕𝗕𝗗𝗗𝗜𝗜𝗜𝗜𝗜𝗜 𝗞𝗞𝗜𝗜𝗜𝗜 𝗔𝗔𝗨𝗨𝗟𝗟𝗔𝗔𝗗𝗗𝗗𝗗𝗗𝗗 𝗔𝗔𝗕𝗕 𝗙𝗙𝗘𝗘𝗘𝗘𝗘𝗘𝗟𝗟 𝗞𝗞𝗥𝗥
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗔𝗔𝗠𝗠𝗠𝗠𝗔𝗔𝗔𝗔 𝗞𝗞𝗢𝗢 𝗖𝗖𝗛𝗛𝗢𝗢𝗗𝗗 𝗞𝗞𝗘𝗘 𝗙𝗙𝗘𝗘𝗠𝗠𝗨𝗨𝗦𝗦 𝗞𝗞𝗥𝗥𝗨𝗨𝗚𝗚𝗔𝗔 𝗔𝗔𝗕𝗕
-𝗧𝗧𝗘𝗘𝗥𝗥𝗜𝗜𝗜𝗜𝗜𝗜 𝗡𝗡𝗔𝗔𝗔𝗔𝗡𝗡𝗜𝗜𝗜𝗜 𝗞𝗞𝗜𝗜𝗜𝗜 𝗖𝗖𝗛𝗛𝗨𝗨𝗧𝗧 𝗞𝗞𝗔𝗔𝗧𝗧𝗨𝗨 
-𝗠𝗠𝗘𝗘𝗥𝗥𝗔𝗔 𝗟𝗟𝗨𝗨𝗡𝗡𝗗𝗗 𝗠𝗠𝗨𝗨𝗛𝗛 𝗠𝗠𝗘𝗘 𝗟𝗟𝗘𝗘𝗟𝗟𝗘𝗘 
-𝗞𝗞𝗢𝗢𝗧𝗧𝗛𝗛𝗘𝗘 𝗪𝗪𝗔𝗔𝗔𝗔𝗟𝗟𝗜𝗜𝗜𝗜𝗜𝗜 𝗞𝗞𝗜𝗜𝗜𝗜 𝗔𝗔𝗨𝗨𝗟𝗟𝗔𝗔𝗗𝗗𝗗𝗗𝗗𝗗 𝗕𝗕𝗛𝗛𝗔𝗔𝗔𝗔𝗚𝗚 𝗠𝗠𝗔𝗔𝗧𝗧 𝗔𝗔𝗕𝗕
+TERRII BEHANN KII CHUTT MAARUUU RANDIII KE BACHHE 
+TERRI AMMA KO CHOD KE PAGAL KRDUGA JHANT KE BAAL 
+TERRII BEHANN KII CHUTT MAARUU RANDIII KE PILL3
+TERRII BEHANN KA BHOSDA MAR KE RANDI KHANA BHEJ DUNGA
+TERRII BEHANN KII CHUTT FAD KE BHOSDA BANA DUNGA
+TERRII BEHANN KO CHOD KE JHANT KA TAJ BANA DUNGA
+TERRII AMMA KO CHOD KE RANDI BANA DUNGA
+TERRII MOSI KII CHUTT MAARUU KANJR KE BACHHE
+TERRII BEHANNN KIII CHUTTT MARRRU TERRRE BAAP KE SAAMMNE 
+TERIIIII AMMMAAA KO CHOD KE TOPPP RANDDIII BNAUUU
+TERIIII BEHANNN KIII GULABIIII CHUTTT PEEE CHAPPAALLL MAARUUUUU 
+TERRIIIII AMMMAAA KIIIIII CHUTTT SE LHOOON NIKAALU
+TERIII AMMMAAA KO ITNAAA CHODUGA PANIIII BHAGEGI 
+TERIIII BEHANNNN KO GHODIII BNAA KE CHODDUUGA 
+TERIIII BADII BEHANNNN KO LUND KAA PAAANIIII PILAUGAAA
+TERRIIIII AMMAAA KIII CHUTTT MARUGA TERE SAAMNE JHANT KE BAAL
+TERIIIII BAAP KII GANDDDD ME LUNDD DAAALUU
+BHAAG MAT RANDDIII KE BACHE 
+BAAP KO FEEEL KR TERIII AMMAA KO CHODUGA AB 
+BHAAG MAT KOTHE WALIIII KE ðŸ¤£ðŸ¤£ðŸ¤£
+TERIIII BEHANNNN KIIIIII KAAALLLIIIII CHUTTT PE CHAPPAALLL BJAAUUU 
+TERRRRIIIIII BEHANNNN KIII BRAAA FADDUUU
+TERRIIIII BEHANNNNNN KOO BAZAARR ME GHODDDIII BNAAAA KE CHODDUUGA
+TERRRRRIIIII AMMAAA KO CHODD KE TOPPP RANDIIII BNAAUU
+TERRRRIIIIII KO THUK LAGA KE CHODUUU
+TERRRRRIIIIIII NAANIIII KIII CHUTTT ME GHODE KAAA LUNDD DAALUU
+TEERRRRRIIIII DAADDDIIIIII KIIIIII GAANNDDDDDD ME GARAM SARIYA DAALUU
+TERRRRRIII AMMAAA KOO CHODU LUND KA PANII PILAA KE 
+TEERRRRIIII BEHANNNN KOO CHODD KE RAAANNDDD BNAA DUGAAA
+TEERRRRRIIIII AAMMMAAAA KO CHODDD KE PREGNANT KARDUGA
+TERRRRRIIIIIII BEHANNNN KIII CHUTTT SEE KHOOONNN KAA NAALA BAHA DUGA
+TERRRRIIII BEHHANN KIII CHUTTT ME LUNDD RAKHUGA TO KHUSH HO JAYEGI
+TERRRRRIIII AMMAAA KO BOOBBSS DBAA DBAAA KE CHODUGA
+TERRRRIIIIII BEHANNNN KOOOO BARAF PE LETAAA KE CHODUGA
+TERRRRIII BAAAPP KII GANDD ME BARF DAALUU
+TERRRRIII AMMAAA KIII KAALIIII CHUTTT PEE HAATHII KE LUNDD RAKHU
+TERRRRRIII BEHANNNNNN KO AIRPLANE ME CHODUGA
+TERRRRIIII BEHANNNNNN KO RAKHEELLL BNAA DUGAAA 
+TERRRRIII AMMAAA KO CHOD KE TERA CHHOTA BHAI PAIDA KARDUGA 
+XHINAARR KE BEEEJJ TYPE KR AB ðŸ˜‚ðŸ˜œ 
+TERRIIII AMMMAAA CHUD GAYI AB TO BHAAG KYU RAHA HAI LUND KE BAAL
+TERRRRIII BEHANNNN KO CHOD KE KOTHE PE CHOD KE AAU
+TERRRRIII BEHANNNN KIII CHUT DAARU PEEE KE MARUGA
+TERRRRIII BADIII BEHANNNN ROAD PE LETAAA KE CHIDUGA
+TERRRRRIIIIIII BEHANNNN KO TERE SAMNE CHOD KE PAGAL KRDUGA 
+LE MADARCHOD MERE LUND CHUS LE ðŸ˜‚ 
+CHAL APNI AMMA KO BHEJ MERA LUND KHADA HAI BETH JAYE MERE LUND PE
+APNI BEHAN SE BOL JIJA JI AAYE HAI CHUT KO CLEAN KRKE RAKHE RAAT KO CHODUGA 
+TERRRRIII BEHANNN KO BOOBS TO BADE MAST HAI DBANE ME MAZA AA GAYA ðŸ˜‚ 
+TERRRRIII AMMAAA KII FATIII CHUTTT ME AAG BAHUT HAI RANDII KE BEEJ
+TERRRRIII CHHOTII BEHANNN KII TIGHT CHOOT ME LUNDD DAAL KE MAZA HIII AA GAYA 
+TERRRRIIIIII AMMMAAA KITNE RUPE ME CHUDWATI HAI CHAL RATE BTA JALDI
+TERRRRIII AMMAAA KO UTHA UTHA KE CHODU RAND KE PILLE
+CHALL APNII BEHANNN KII CHOOT KI DALAL MADARCHOD AB
+TERRRRIII BEHANNN KIII CHUT BAHUT GARAM HO RAHI HAI BHEJDE THANDI KRDUGA CHOD CHOD KE
+TERRIII BEHANN PAGAL HO RAHI HAI MERE LUNDD KE LIYE KAHE TO GHODI BNAA KE CHOD DU
+TERRRRIII AMMAAA KO ITNA CHODA KE TERII AMMA MERE LUND KI FAN HO GAYI 
+TERIII BEHANNNN KIII PIYAS KUCH AISE MEETAUGA LUND KA SARA PANI PILAUGA
+TERRRIIII BEHANNN KO DARU PILAAAA PILLAAAA KE CHODUGA 
+TERRRRIII BEHANNNN KIII KAALIII GANDD BAHUT MOTII HO RAHI HAI 
+TERRRII BEHANNN KI GAND MOTI MENE HI TO KI HAI CHOD KE 
+TERRRRIII AMMAAA APNI JHANTE CHATAUGA 
+TERRIII MOSI KO LUND KA JHULA JHULAUGA
+TERRRRIII BEHANNNN KO GHODI BNA KE CHHODUGA 
+TERRIII BEHANNNN JB CHUDEGI TO TU VIDEO BNANA DALLLE 
+TERRRRIII BEHANNNN KO LUND KA TOPA CHATAUGA
